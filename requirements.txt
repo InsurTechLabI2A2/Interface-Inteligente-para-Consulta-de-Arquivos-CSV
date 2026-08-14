@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+plotly>=5.20
+pydantic>=2.0
+python-dotenv>=1.0
+langchain>=1.0
+langchain-anthropic>=1.0
+pytest>=8.0
+

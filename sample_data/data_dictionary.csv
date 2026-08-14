@@ -1,0 +1,9 @@
+campo;descricao;tipo
+CHAVE DE ACESSO;Identificador da nota fiscal;texto
+VALOR NOTA FISCAL;Valor total da nota no cabeçalho;decimal
+RAZÃO SOCIAL EMITENTE;Empresa emitente;texto
+UF EMITENTE;Estado do emitente;texto
+UF DESTINATÁRIO;Estado do destinatário;texto
+CFOP;Código fiscal da operação no item;texto
+CÓDIGO NCM/SH;Classificação fiscal do produto;texto
+QUANTIDADE;Quantidade do item;decimal
